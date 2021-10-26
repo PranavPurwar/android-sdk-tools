@@ -1,1 +1,1 @@
-This directory contains a backup of api 28 android.jar
+This directory contains a backup of api 26 android.jar
